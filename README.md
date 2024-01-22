@@ -1,11 +1,11 @@
 # Text-Analyzer
 
-Text-Analyzer is a utility which can be used to manipulate our text in the way you want. 
+Text-Analyzer is a utility that can be used to manipulate our text in the way you want. 
 
 ## About Project
 
-Text-Analyzer is a utility which can be used to manipulate our text in the way you want. Through this we can convert the case of our text deom lower to upper and upper to lower, we can remove the extra spaces from the text, copy the text and many more. 
-Below the textarea section it tells us the numbet of words, Preview and time it will take us to read the text. 
+Text-Analyzer is a utility that can be used to manipulate our text in the way you want. Through this we can convert the case of our text from lower to upper and upper to lower, we can remove the extra spaces from the text, copy the text, and many more. 
+Below the textarea section, it tells us the number of words, Preview, and time it will take us to read the text. 
 
 To create the project we first need to give the following command
 
@@ -13,20 +13,20 @@ To create the project we first need to give the following command
  npx create-react-app myapp
  ```
 
-This will create a react app with all the files and packages installed in it. 
+This will create a React app with all the files and packages installed in it. 
 
-This Utility conatains two pages
+This Utility contains two pages
 
-![Home Page](TextAnalyzerImg\HomePage.png)
-
-
-![About Page](TextAnalyzerImg\AboutPage.png)
+![Home Page](TextAnalyzerImg/HomePage.png)
 
 
-![Home Page with Different Bg](TextAnalyzerImg\HomePgDiffbg.png)
+![About Page](TextAnalyzerImg/AboutPage.png)
 
 
-![About Page with Different Bg](TextAnalyzerImg\AboutPgDiffBg.png)
+![Home Page with Different Bg](TextAnalyzerImg/HomePgDiffbg.png)
+
+
+![About Page with Different Bg](TextAnalyzerImg/AboutPgDiffBg.png)
 
 
 To run a react app we need to give the following command. 
@@ -34,7 +34,7 @@ To run a react app we need to give the following command.
 ```
 npm start
 ```
-and to build the project we need to create a production build using the following the command
+and to build the project we need to create a production build using the following command
 ```
 npm run build
 ```
